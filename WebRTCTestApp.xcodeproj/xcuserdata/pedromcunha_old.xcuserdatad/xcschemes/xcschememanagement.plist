@@ -7,7 +7,25 @@
 		<key>WebRTCTestApp.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>3</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>873014A020D9EEB60057F875</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>873014B420D9EEB80057F875</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>873014BF20D9EEB80057F875</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
